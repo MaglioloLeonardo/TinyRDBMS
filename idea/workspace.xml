@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Progetto:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e502d27-3784-4a40-b8fb-ed2ab3aebd67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/LogicLayer/FromClauseTree/FromClauseNode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Field.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/LogicLayer/FromClauseTree/OperationTableNode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/ApplicationLayer/CommandLineApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/NullField.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/LogicLayer/FromClauseTree/TableLeafNode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/StringField.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/TableManager.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Page.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/TestLayer/LogicTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/FileUtility.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/IntField.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Exceptions/NotFoundedTableException.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/TestLayer/PhysicalLayerTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/basePackage/LogicLayer/SQLiteParser.g4" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1qymL4Dw7QK5fNhPmKjfDJnBIZw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/ProfilerIntellij" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2919355" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MEGAsync\Uni\Terzo anno\tesi\Progetti\Progetto" />
+      <recent name="D:\MEGAsync\Uni\Terzo anno\tesi\Progetti\Progetto\src\com\basePackage\LogicLayer\AntlrOutput\antlrOutput" />
+      <recent name="D:\MEGAsync\Uni\Terzo anno\tesi\Progetti\Progetto\src\com\basePackage\LogicLayer" />
+      <recent name="D:\MEGAsync\Uni\Terzo anno\tesi\Progetti\Progetto\src\com\basePackage\TestLayer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CommandLineApplication">
+    <configuration name="CommandLineApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basePackage.ApplicationLayer.CommandLineApplication" />
+      <module name="Progetto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basePackage.ApplicationLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basePackage.PhysicalLayer.FileUtility" />
+      <module name="Progetto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basePackage.TestLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basePackage.TestLayer.LogicTest" />
+      <module name="Progetto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basePackage.TestLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalLayerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basePackage.TestLayer.LogicalLayerTest" />
+      <module name="Progetto" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basePackage.TestLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basePackage.TestLayer.TableTest" />
+      <module name="Progetto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basePackage.TestLayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogicalLayerTest" />
+      <item itemvalue="Application.TableTest" />
+      <item itemvalue="Application.CommandLineApplication" />
+      <item itemvalue="Application.LogicTest" />
+      <item itemvalue="Application.FileUtility" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CommandLineApplication" />
+        <item itemvalue="Application.LogicTest" />
+        <item itemvalue="Application.FileUtility" />
+        <item itemvalue="Application.LogicalLayerTest" />
+        <item itemvalue="Application.TableTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e502d27-3784-4a40-b8fb-ed2ab3aebd67" name="Default Changelist" comment="" />
+      <created>1618060144877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618060144877</updated>
+      <workItem from="1618060152748" duration="5885000" />
+      <workItem from="1618071762962" duration="4627000" />
+      <workItem from="1618083856347" duration="27901000" />
+      <workItem from="1618160797374" duration="9568000" />
+      <workItem from="1618173032127" duration="4347000" />
+      <workItem from="1618177616823" duration="4548000" />
+      <workItem from="1618213822724" duration="21644000" />
+      <workItem from="1618243845643" duration="10486000" />
+      <workItem from="1618298916061" duration="1226000" />
+      <workItem from="1618852259334" duration="114000" />
+      <workItem from="1618852972345" duration="101000" />
+      <workItem from="1618853396444" duration="115000" />
+      <workItem from="1618853535124" duration="634000" />
+      <workItem from="1629716370696" duration="1850000" />
+      <workItem from="1629722596819" duration="26236000" />
+      <workItem from="1629821413840" duration="8678000" />
+      <workItem from="1629835891510" duration="13371000" />
+      <workItem from="1629888015699" duration="1258000" />
+      <workItem from="1629891448127" duration="6865000" />
+      <workItem from="1629900170193" duration="22095000" />
+      <workItem from="1629942470391" duration="1390000" />
+      <workItem from="1629943911457" duration="432000" />
+      <workItem from="1629971543749" duration="364000" />
+      <workItem from="1629974697101" duration="1330000" />
+      <workItem from="1629977306315" duration="2072000" />
+      <workItem from="1629980204640" duration="8409000" />
+      <workItem from="1629992180191" duration="6791000" />
+      <workItem from="1630010814935" duration="1841000" />
+      <workItem from="1630015032033" duration="630000" />
+      <workItem from="1630015908316" duration="282000" />
+      <workItem from="1630016228256" duration="10531000" />
+      <workItem from="1630062790906" duration="7663000" />
+      <workItem from="1630070596205" duration="2171000" />
+      <workItem from="1630077778651" duration="202000" />
+      <workItem from="1630080145619" duration="7604000" />
+      <workItem from="1630109687278" duration="6946000" />
+      <workItem from="1630152907397" duration="20763000" />
+      <workItem from="1630187556242" duration="2329000" />
+      <workItem from="1630190503904" duration="1798000" />
+      <workItem from="1630192358139" duration="5971000" />
+      <workItem from="1630235992578" duration="1671000" />
+      <workItem from="1630238174251" duration="10018000" />
+      <workItem from="1630251834689" duration="9713000" />
+      <workItem from="1630266063862" duration="9142000" />
+      <workItem from="1630278380511" duration="751000" />
+      <workItem from="1630494423817" duration="350000" />
+      <workItem from="1630496878840" duration="16807000" />
+      <workItem from="1630529711601" duration="682000" />
+      <workItem from="1630531102504" duration="30000" />
+      <workItem from="1630531162216" duration="8641000" />
+      <workItem from="1630580435635" duration="703000" />
+      <workItem from="1630584121176" duration="7926000" />
+      <workItem from="1630603263414" duration="4318000" />
+      <workItem from="1630619290782" duration="237000" />
+      <workItem from="1630619587592" duration="9562000" />
+      <workItem from="1630678078042" duration="109000" />
+      <workItem from="1630678475373" duration="12166000" />
+      <workItem from="1630754852048" duration="2049000" />
+      <workItem from="1630760803550" duration="3652000" />
+      <workItem from="1630785156864" duration="4511000" />
+      <workItem from="1630841517882" duration="10451000" />
+      <workItem from="1630856223274" duration="5910000" />
+      <workItem from="1630873738147" duration="8731000" />
+      <workItem from="1630940018239" duration="657000" />
+      <workItem from="1630942577754" duration="317000" />
+      <workItem from="1631092641510" duration="1580000" />
+      <workItem from="1631094688655" duration="14429000" />
+      <workItem from="1631119380178" duration="6151000" />
+      <workItem from="1631128160719" duration="18250000" />
+      <workItem from="1631189785290" duration="19149000" />
+      <workItem from="1631223277371" duration="8351000" />
+      <workItem from="1631239595261" duration="687000" />
+      <workItem from="1631293502718" duration="7729000" />
+      <workItem from="1631346131873" duration="32997000" />
+      <workItem from="1631407592175" duration="1991000" />
+      <workItem from="1631411052987" duration="52000" />
+      <workItem from="1631444561086" duration="8812000" />
+      <workItem from="1631548565364" duration="1673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="340" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="462" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>149</line>
+          <option name="timeStamp" value="464" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="465" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>174</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>197</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="469" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>214</line>
+          <option name="timeStamp" value="470" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="471" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>156</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="476" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/basePackage/PhysicalLayer/Table.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.concurrent.atomic.AtomicInteger" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="IDPage" />
+        <watch expression="IDPage" />
+        <watch expression="pages.get(2).first.tuples.get(2)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Progetto$CommandLineApplication.ic" NAME="CommandLineApplication Coverage Results" MODIFIED="1631223125080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.basePackage.ApplicationLayer.*</FILTER>
+    </SUITE>
+  </component>
+</project>
