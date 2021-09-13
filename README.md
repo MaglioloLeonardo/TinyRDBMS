@@ -1,5 +1,5 @@
 # TinyRDBMS
-Relational DBMS able to execute SQL code written in Java implemented using a multi-thread approach.
+Relational DBMS able to execute SQL code written in Java and ANTLR implemented using a multi-thread approach.
 
 The project is to be considered complete, however, there are some noteworthy practices as regards the usable sql syntax:
 <ul>
