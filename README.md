@@ -11,3 +11,6 @@ The project is to be considered complete, however, there are some noteworthy pra
 
 The project can be executed with che command 'java -jar Progetto.jar', the jar file is situated in the folder 'Compiled Executable'. 
 The folder containing 'Progetto.jar' must contain a folder called 'DBFolder'.
+
+In addiction to the source code, it is also availble in .pdf the bachelor thesis written (unfortunately only in italian) about this project,
+explaining more in detail it's structure and the possible future improvements.
