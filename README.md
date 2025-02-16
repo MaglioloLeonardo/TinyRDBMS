@@ -15,4 +15,4 @@ The folder containing 'Progetto.jar' must contain a folder called 'DBFolder'.
 In addiction to the source code, it is also availble in .pdf the bachelor thesis written (both Italian and English version) about this project,
 explaining more in detail it's structure and the possible future improvements.
 <br>
-(It is possible that the formulas represented in the reports in English contain formulas rendered in a difficult to read manner, to consult them properly consult the Italian version)
+(It is possible that the reports in English contain formulas that are difficult to read; to read them correctly, consult the Italian version)
